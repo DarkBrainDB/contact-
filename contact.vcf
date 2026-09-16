@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Shankar;Shiv;;;
+FN:Shiv Shankar
+ORG:CipherSystems
+TITLE:IT Admin
+TEL;TYPE=CELL,PREF:+917019887565
+EMAIL;TYPE=INTERNET,WORK:shivsahnkar4454@outlook.com
+URL:https://www.deliverycentric.com/
+item1.URL;TYPE=WORK:https://www.linkedin.com/
+item1.X-ABLabel:LinkedIn
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/
+END:VCARD
